@@ -1,0 +1,12 @@
+images/
+
+images/add-icon.png
+images/forward-icon.png
+images/backward-icon.png
+images/sign-question-icon.png
+images/NoVisibilitaLimitata.png
+images/VisLimitata16x16.png
+images/Pen-Red-icon.png
+images/documento-NOoriginale.png
+images/documento-originale.png
+images/Pen-Grey-icon.png
